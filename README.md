@@ -1,2 +1,2 @@
 # szyfr-cezara
-Szyfr kodujący sposobem Cezara o 3 liczby do przodu
+Szyfr kodujący sposobem Cezara o 3 pozycje do przodu.
